@@ -42,7 +42,7 @@ html body {
 }
 
 .hp-headline {
-  background-color: linear-gradient(rgba(52,51,76, 0.9),rgba(52,51,76, 0.9));
+  background-color: black; 
   position: fixed;
   bottom: 0;
   width: 100%;
